@@ -119,7 +119,7 @@ const BlogDetailsPage = () => {
                     </div>
                   </div>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  It's imperative to monitor the progress of Patients who are post operative care andHIS helps you do that efficiently by providing critical insights based on data captured during periodic Patient Assessments
+                  It's imperative to monitor the progress of Patients who are post operative care and HIS helps you do that efficiently by providing critical insights based on data captured during periodic Patient Assessments
                   </p>
                   <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
                   Patient Appointments
@@ -143,7 +143,7 @@ const BlogDetailsPage = () => {
                   Features out of the box
                   </h3>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Managing Patient's health history inHIS is easy and simple, you can even configure custom documents to be added to a patient's medical records. All medical records have restricted access by Roles and Permissions, ensuring the patient's data is protected.
+                  Managing Patient's health history in HIS is easy and simple, you can even configure custom documents to be added to a patient's medical records. All medical records have restricted access by Roles and Permissions, ensuring the patient's data is protected.
                   </p>
                   <ul className="mb-10 list-inside list-disc text-body-color">
             
