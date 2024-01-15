@@ -26,6 +26,7 @@ const AboutSectionOne = () => {
               <SectionTitle
                 title="ENTERPRISE & CLOUD APPLICATIONS"
                 paragraph="We provides implementation and customization services, business process mapping, systems integration, technical delivery experience and innovation to deliver value and innovation on ERPNext, the world’s best ERP. Our team can help you deploy end-to-end ERPNext solution, whether hosted in the cloud or in a traditional data center environment."
+                
                 mb="44px"
               />
 
